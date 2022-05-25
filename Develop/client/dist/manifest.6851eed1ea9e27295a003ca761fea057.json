@@ -1,0 +1,10 @@
+{
+  "name": "Contact Directory",
+  "short_name": "Contact Directory",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "Add a contact",
+  "background_color": "#7eb4e2",
+  "theme_color": "#7eb4e2"
+}
